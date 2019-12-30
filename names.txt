@@ -1,10 +1,5 @@
 1.Roma
 2.Andrew
 3.Tolyan
-<<<<<<< HEAD
-4.Kolyambas
-5.Leonid
-=======
-4.Kolyamba
-5.Yakub
->>>>>>> 58d3968fd5bc6e3e8e8a80a561fdf8abc821a847
+4.Bobby
+5.Jhony
